@@ -33,6 +33,7 @@ public static void main(String[] args) {
 
         // 5. Xuất kết quả
         System.out.println("So chan cuoi cung la: " + ketQua);
+        sc.close();
     }
     
 
