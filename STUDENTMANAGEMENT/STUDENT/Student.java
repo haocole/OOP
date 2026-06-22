@@ -1,4 +1,4 @@
-package STUDENTMANAGEMENT;
+package STUDENTMANAGEMENT.STUDENT;
 
 public class Student {
     private int id;
